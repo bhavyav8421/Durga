@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#FFFFFF</color>
+    <color name="action_bar_color">#c0392b</color>
+    <color name="primary_dark">#9d220e</color>
+    <color name="primary_yellow_dark">#a25e0d</color>
+    <color name="primary_light">#f75c24</color>
+    <color name="text_gray">#707070</color>
+
+    <!-- <drawable name="drawable_primary">#e82a0a</drawable>
+    <drawable name="drawable_primary_dark">#1A9d220e</drawable> eb9329
+    <drawable name="drawable_primary_light">#f75c24</drawable> -->
+    <drawable name="drawable_primary">#FFFFFF</drawable>
+    <drawable name="drawable_primary_dark">#1A9d220e</drawable>
+    <drawable name="drawable_primary_light">#f75c24</drawable> 
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="drawable_pressed_transaparent">#BFc0392b</drawable>
+
+</resources>

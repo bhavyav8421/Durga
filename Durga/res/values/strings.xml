@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Durga</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <drawable name="drawable_yellow">#fdd835</drawable>
+
+    <string name="www_durgaindia_org">www.durgaindia.org</string>
+
+    <string name="_">", "</string>
+
+    <string name="contacts">Contacts</string>
+
+    <string name="call">Call</string>
+
+    <string name="add_contacts">Add Contacts</string>
+
+    <string name="emergency_contacts">Emergency Contacts</string>
+
+</resources>
